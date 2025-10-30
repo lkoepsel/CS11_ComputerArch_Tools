@@ -26,3 +26,10 @@ The tools must be capable of the following actions:
 4. Load executable into chip
 5. Debug either on chip or via simulation
 6. Provide circuit simulation capabilities (*OPTIONAL*)
+
+## Docs
+
+* [AVR Passing Arguments into Functions](./Docs/AVR_AppendixI.pdf) 
+* [AVR Instructions Explained](./Docs/AVR2_AppendixB.pdf)
+* [AVR Simulation Using SimulIDE](./Docs/AvrSimulationUsingSimulIDE.pdf)
+* [AVR Assembly Programming in MPLAB X](./Docs/MPLab_asm.pdf)
