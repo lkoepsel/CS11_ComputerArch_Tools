@@ -1,19 +1,19 @@
 # CS11 Computer Architecture Development Tool Evaluation
 
 ## Development Tools
-* [MPLab X](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
-* [SimulIDE](https://simulide.com/p/)
-* [VS Code MPLab Extensions](https://marketplace.visualstudio.com/items?itemName=Microchip.mplab-extension-pack)
-* [AVR C RPi Build](https://github.com/lkoepsel/AVR_C/blob/main/docs/RPi_build.md)
+* [MPLab X](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide) - NetBeans-based IDE from Microchip from C/Assembly development to simulation and debug
+* [SimulIDE](https://simulide.com/p/) - Full featured IDE and circuit simulation environment
+* [VS Code MPLab Extensions](https://marketplace.visualstudio.com/items?itemName=Microchip.mplab-extension-pack) - VS Code Extensions from Microchip for full development including simulation and debugging
+* [AVR C RPi Build](https://github.com/lkoepsel/AVR_C/blob/main/docs/RPi_build.md) - Detailed instructions as to how to build an AVR-GCC tools environment on a Raspberry Pi
 
 ## Objectives
 
 For the above development tools, evaluate their suitability for:
 1. Student use
 2. Cross-platform capability
-3. Debug and simulation capabilities
+3. Code development including debug and simulation
 
-## Microcontroller Background
+## Microcontroller Targets
 
 The desired targets are the [*ATtiny13A*](https://github.com/lkoepsel/ATtiny) and the [*ATmega328P*](https://github.com/lkoepsel/AVR_C).
 
